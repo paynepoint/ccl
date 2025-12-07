@@ -1,2 +1,2 @@
-# ccl
-My capstone collection
+n# ccl
+My capstone connections journal
