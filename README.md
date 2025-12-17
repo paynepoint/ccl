@@ -1,2 +1,2 @@
-n# ccl
+# ccl
 My capstone connections journal
